@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837812549418",
+    "project_id": "travelapp-b5e7e",
+    "storage_bucket": "travelapp-b5e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837812549418:android:18769e174f9569627dd053",
+        "android_client_info": {
+          "package_name": "com.example.getjobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCepMqiA0Mdj5OXJnLNrDGUAvpi_6UwhMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837812549418:android:87985ab08c99b6e17dd053",
+        "android_client_info": {
+          "package_name": "zahin.jobs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCepMqiA0Mdj5OXJnLNrDGUAvpi_6UwhMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
